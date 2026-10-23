@@ -1,0 +1,26 @@
+data/*.csv
+posterior/*
+!posterior/.gitkeep
+splits/*.csv
+**/__pycache__/
+*.pyc
+.DS_Store
+
+
+# Original datasets (download from the source repository)
+/data/lab data.csv
+/data/online data.csv
+
+# Local environment and repository inventory
+/environment_packages.txt
+/repository_inventory.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Local editor settings
+.vscode/

@@ -1,0 +1,17 @@
+\begin{table}[htbp]
+\centering
+\caption{Predictive performance and model fusion weights (Target Domain 2: Pooled Street and Lab data).}
+\label{tab:domain2_performance}
+\begin{tabular}{lrrrr}
+\toprule
+Model & Avg. Log Score & Variance & Weights\_Street & Weights\_Lab \\
+\midrule
+Street-MCPT (MLE) & -0.7882 & 1.2200 & -- & -- \\
+Lab-MCPT (MLE) & -0.7981 & 0.1032 & -- & -- \\
+Pooled-MCPT (MLE) & -0.6661 & 0.2624 & -- & -- \\
+pseudo-BMA & -0.6249 & 0.4069 & 1.0000 & 0.0000 \\
+BB-pseudo-BMA & -0.6172 & 0.3391 & 0.9405 & 0.0595 \\
+stacking & -0.6132 & 0.1526 & 0.6899 & 0.3101 \\
+\bottomrule
+\end{tabular}
+\end{table}

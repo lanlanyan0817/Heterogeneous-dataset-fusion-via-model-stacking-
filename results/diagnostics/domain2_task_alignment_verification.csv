@@ -1,0 +1,41 @@
+seed,check,tasks,status
+12,Web1 train: Web LOO vs Lab OOS,244,PASS
+12,Lab1 train: Web OOS vs Lab LOO,160,PASS
+12,Web2 test: Web vs Lab,60,PASS
+12,Lab2 test: Web vs Lab,40,PASS
+22,Web1 train: Web LOO vs Lab OOS,244,PASS
+22,Lab1 train: Web OOS vs Lab LOO,160,PASS
+22,Web2 test: Web vs Lab,60,PASS
+22,Lab2 test: Web vs Lab,40,PASS
+32,Web1 train: Web LOO vs Lab OOS,244,PASS
+32,Lab1 train: Web OOS vs Lab LOO,160,PASS
+32,Web2 test: Web vs Lab,60,PASS
+32,Lab2 test: Web vs Lab,40,PASS
+42,Web1 train: Web LOO vs Lab OOS,244,PASS
+42,Lab1 train: Web OOS vs Lab LOO,160,PASS
+42,Web2 test: Web vs Lab,60,PASS
+42,Lab2 test: Web vs Lab,40,PASS
+52,Web1 train: Web LOO vs Lab OOS,244,PASS
+52,Lab1 train: Web OOS vs Lab LOO,160,PASS
+52,Web2 test: Web vs Lab,60,PASS
+52,Lab2 test: Web vs Lab,40,PASS
+62,Web1 train: Web LOO vs Lab OOS,244,PASS
+62,Lab1 train: Web OOS vs Lab LOO,160,PASS
+62,Web2 test: Web vs Lab,60,PASS
+62,Lab2 test: Web vs Lab,40,PASS
+72,Web1 train: Web LOO vs Lab OOS,244,PASS
+72,Lab1 train: Web OOS vs Lab LOO,160,PASS
+72,Web2 test: Web vs Lab,60,PASS
+72,Lab2 test: Web vs Lab,40,PASS
+82,Web1 train: Web LOO vs Lab OOS,244,PASS
+82,Lab1 train: Web OOS vs Lab LOO,160,PASS
+82,Web2 test: Web vs Lab,60,PASS
+82,Lab2 test: Web vs Lab,40,PASS
+92,Web1 train: Web LOO vs Lab OOS,244,PASS
+92,Lab1 train: Web OOS vs Lab LOO,160,PASS
+92,Web2 test: Web vs Lab,60,PASS
+92,Lab2 test: Web vs Lab,40,PASS
+102,Web1 train: Web LOO vs Lab OOS,244,PASS
+102,Lab1 train: Web OOS vs Lab LOO,160,PASS
+102,Web2 test: Web vs Lab,60,PASS
+102,Lab2 test: Web vs Lab,40,PASS

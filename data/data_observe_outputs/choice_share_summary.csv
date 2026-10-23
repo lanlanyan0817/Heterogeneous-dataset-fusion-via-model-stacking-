@@ -1,0 +1,5 @@
+dataset,alt,chosen_count,rows,choice_share
+Lab,1,105,200,0.525
+Lab,3,95,200,0.475
+Online,1,232,304,0.7631578947368421
+Online,3,72,304,0.23684210526315788
